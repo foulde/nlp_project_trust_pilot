@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Import your modularized applications
-from python_sentiment_iference import run_sentiment_analysis
+from python_sentiment_inference import run_sentiment_analysis
 from recommender_streamlit import run_company_recommendation
 
 # Function to render the sidebar and handle navigation
