@@ -13,3 +13,8 @@ The second one in NLP3_bert.ipynb containe the training module on a binary class
 this time we use binary classifier (between negative and positive data) 
 
 
+# For recommendation engine 
+
+The model experimented with are in recommender_system2.ipynb
+
+The recommender system implemented in streamlit is BERT  
